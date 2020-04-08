@@ -1,0 +1,10 @@
+using System;
+
+namespace GitTest
+{
+	public static void Main(string[] args)	
+	{
+		Console.WriteLine("Hello World");
+	}
+
+}
