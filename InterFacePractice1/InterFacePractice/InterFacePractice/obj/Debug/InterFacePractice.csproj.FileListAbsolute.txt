@@ -1,0 +1,6 @@
+C:\Users\심보근\OneDrive\코딩\C#\GitCode\GitCode\InterFacePractice1\InterFacePractice\InterFacePractice\bin\Debug\InterFacePractice.exe.config
+C:\Users\심보근\OneDrive\코딩\C#\GitCode\GitCode\InterFacePractice1\InterFacePractice\InterFacePractice\obj\Debug\InterFacePractice.csprojResolveAssemblyReference.cache
+C:\Users\심보근\OneDrive\코딩\C#\GitCode\GitCode\InterFacePractice1\InterFacePractice\InterFacePractice\bin\Debug\InterFacePractice.exe
+C:\Users\심보근\OneDrive\코딩\C#\GitCode\GitCode\InterFacePractice1\InterFacePractice\InterFacePractice\bin\Debug\InterFacePractice.pdb
+C:\Users\심보근\OneDrive\코딩\C#\GitCode\GitCode\InterFacePractice1\InterFacePractice\InterFacePractice\obj\Debug\InterFacePractice.exe
+C:\Users\심보근\OneDrive\코딩\C#\GitCode\GitCode\InterFacePractice1\InterFacePractice\InterFacePractice\obj\Debug\InterFacePractice.pdb
